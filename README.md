@@ -19,6 +19,6 @@ The system architecture is SPA - Single Page Application.
 ## Installing
 * Clone this repo to your computer.
 
-> ```git clone https://github.com/Elroy-anaki/AllGobs-FinalProject.git```
-* > Open the index.html file.
+   ```git clone https://github.com/Elroy-anaki/AllGobs-FinalProject.git```
+*  Open the index.html file.
 
