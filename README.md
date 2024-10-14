@@ -3,8 +3,8 @@
 A small project during the studies that includes practice on all the material studied (HTML, CSS, JS)
 
 
-[![image](https://hackmd.io/_uploads/SJmLQdcy1g.png)
-](https://github.com/Elroy-anaki/AllGobs-FinalProject/blob/main/image.png)
+![Screenshot 2024-10-14 134353](https://hackmd.io/_uploads/BkDf8Oqyyg.png)
+
 
 ## Description
 A system that manages the submission of resumes for open positions.
@@ -21,3 +21,4 @@ The system architecture is SPA - Single Page Application.
 
 > ```git clone https://github.com/Elroy-anaki/AllGobs-FinalProject.git```
 * > Open the index.html file.
+
