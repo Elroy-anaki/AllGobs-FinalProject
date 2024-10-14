@@ -126,30 +126,6 @@ function buildJobs(arr = allJobs) {
             </div>
           </div>
     `;
-
-    // jobsContainer.innerHTML += `
-    //     <div class="job-section">
-    //         <div class="bg-body-secondary company-name" style="border-bottom: 1px solid rgb(94, 89, 89);">
-    //           <p class="text-center p-2 m-0">Company Name: ${job.company_name}</p>
-    //         </div>
-    //         <div class="w-100 bg-black">
-    //           <img src=${job.company_logo} width="100%" height="120px" alt="" />
-    //         </div>
-    //         <h4 class="text-center fw-bold text-decoration-underline m-1">
-    //           ${job.title}
-    //         </h4>
-    //         <p class="ms-2">Salary: ${job.salary}</p>
-    //         <div class="scroll-box ms-2">${job.description}</div>
-
-    //         <div class="d-flex justify-content-center gap-5 mt-3">
-    //           <button type="button" class="btn btn-danger">Save This JOB</button>
-    //           <button type="button" class="btn btn-success">See This Job</button>
-    //         </div>
-    //         <div class="bg-body-secondary mt-2 " style="border-top: 1px solid rgb(94, 89, 89);">
-    //             <p class=" p-2 ">Type: ${job.job_type}</p>
-    //           </div>
-    //       </div>
-    //     `;
   });
 }
 
