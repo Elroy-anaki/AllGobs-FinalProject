@@ -3,7 +3,7 @@
 A small project during the studies that includes practice on all the material studied (HTML, CSS, JS)
 
 
-![Screenshot 2024-10-14 134353](https://hackmd.io/_uploads/BkDf8Oqyyg.png)
+![image](https://github.com/Elroy-anaki/AllGobs-FinalProject/blob/main/image.png?raw=true)
 
 
 ## Description
