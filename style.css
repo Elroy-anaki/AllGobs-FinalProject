@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+
+#main-contianer {
+  width: 75%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.company-name {
+  height: 5%;
+}
+.scroll-box {
+  width: 95%;
+  height: 250px;
+  margin: 0 auto;
+  overflow: scroll;
+}
+.job-section1 {
+  width: 360px;
+  height: 600px; /* Set a fixed height */
+  margin-bottom: 15px;
+  border: 2px solid rgb(97, 154, 192);
+  display: flex;
+  flex-direction: column;
+
+}
+
